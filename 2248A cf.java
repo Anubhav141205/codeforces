@@ -11,5 +11,6 @@ class Main{
             String ans = Afteralice.substring(0,one)+ Afteralice.substring(one+1);
             System.out.println(ans);
         }
+        sc.close();
 }
 }
